@@ -1,2 +1,3 @@
-# ios-bootcamp-homework6
-Homework 6 solution
+# ios-bootcamp-homework-solutions
+Homework 6
+Homework 7
